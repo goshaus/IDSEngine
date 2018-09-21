@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSEngineUI", "IDSEngine\IDSEngineUI.csproj", "{FF1D48EC-9E87-4AE1-AD08-2EDC678910E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSEngineKernel", "IDSEngineKernel\IDSEngineKernel.csproj", "{3292D8FC-4A46-4CE2-9930-A8B96DA32AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1D48EC-9E87-4AE1-AD08-2EDC678910E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1D48EC-9E87-4AE1-AD08-2EDC678910E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1D48EC-9E87-4AE1-AD08-2EDC678910E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1D48EC-9E87-4AE1-AD08-2EDC678910E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3292D8FC-4A46-4CE2-9930-A8B96DA32AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3292D8FC-4A46-4CE2-9930-A8B96DA32AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3292D8FC-4A46-4CE2-9930-A8B96DA32AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3292D8FC-4A46-4CE2-9930-A8B96DA32AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A9C41DE-4DC8-45EC-8992-F4B0B48A00A3}
+	EndGlobalSection
+EndGlobal
